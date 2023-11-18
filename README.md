@@ -21,3 +21,5 @@
 - Extração de Entidades Nomeadas
 
 - Nuvem de Palavras com Python
+
+![NLP](https://i0.wp.com/opensourceforu.com/wp-content/uploads/2018/08/Natural-Language-Processing.jpg?fit=1187%2C860&ssl=1)
